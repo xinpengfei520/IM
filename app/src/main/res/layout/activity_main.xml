@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.atguigu.im.controller.MainActivity">
+    tools:context="com.atguigu.im.controller.activity.MainActivity">
 
     <FrameLayout
         android:id="@+id/fl_main"
@@ -13,10 +13,16 @@
         android:layout_height="0dp"
         android:layout_weight="1" />
 
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#33000000" />
+
     <RadioGroup
         android:id="@+id/rg_main"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="wrap_content"
+        android:background="#F6F6F6"
         android:orientation="horizontal">
 
         <RadioButton
@@ -24,36 +30,48 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/bg_main_selector"
             android:button="@null"
+            android:drawableTop="@drawable/rb_a_selector"
             android:gravity="center"
             android:text="会话"
-            android:textColor="@color/textcolor_main_selector"
-            android:textSize="20sp" />
+            android:textColor="@drawable/rb_textcolor_selector"
+            android:textSize="15sp" />
 
         <RadioButton
             android:id="@+id/rb_main_contact"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/bg_main_selector"
             android:button="@null"
+            android:drawableTop="@drawable/rb_b_selector"
             android:gravity="center"
-            android:text="联系人"
-            android:textColor="@color/textcolor_main_selector"
-            android:textSize="20sp" />
+            android:text="通讯录"
+            android:textColor="@drawable/rb_textcolor_selector"
+            android:textSize="15sp" />
+
+        <RadioButton
+            android:id="@+id/rb_main_discover"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/rb_c_selector"
+            android:gravity="center"
+            android:text="发现"
+            android:textColor="@drawable/rb_textcolor_selector"
+            android:textSize="15sp" />
 
         <RadioButton
             android:id="@+id/rb_main_setting"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:background="@drawable/bg_main_selector"
             android:button="@null"
+            android:drawableTop="@drawable/rb_d_selector"
             android:gravity="center"
             android:text="设置"
-            android:textColor="@color/textcolor_main_selector"
-            android:textSize="20sp" />
+            android:textColor="@drawable/rb_textcolor_selector"
+            android:textSize="15sp" />
 
     </RadioGroup>
 

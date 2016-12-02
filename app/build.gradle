@@ -3,7 +3,7 @@ apply plugin: 'com.neenbedankt.android-apt'//增加这一句
 
 android {
     compileSdkVersion 24
-    buildToolsVersion "23.0.3"
+    buildToolsVersion "24.0.2"
     defaultConfig {
         applicationId "com.atguigu.im"
         minSdkVersion 16
@@ -26,13 +26,11 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-    compile('com.android.support:appcompat-v7:23.3.0') {
-        exclude module: 'support-v4'
-//        exclude module: 'support-annotation'
-    }
     testCompile 'junit:junit:4.12'
     compile 'com.jakewharton:butterknife:8.4.0'
+    compile 'com.android.support:appcompat-v7:24.2.0'
     apt 'com.jakewharton:butterknife-compiler:8.4.0'
     //增加这一句
-    compile project(':easeui')
+    compile project(':QRCode_lib')
+    compile project(':easeUI_CN')
 }

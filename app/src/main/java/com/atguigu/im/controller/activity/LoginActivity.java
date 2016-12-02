@@ -9,7 +9,6 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.atguigu.im.R;
-import com.atguigu.im.controller.MainActivity;
 import com.atguigu.im.model.Model;
 import com.atguigu.im.model.bean.UserInfo;
 import com.hyphenate.EMCallBack;

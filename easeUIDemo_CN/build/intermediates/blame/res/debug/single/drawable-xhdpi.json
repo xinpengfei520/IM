@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_icon_speaker_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_icon_speaker_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_new_friends_icon.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_new_friends_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_unread_count_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_unread_count_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_unread_dot.9.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_unread_dot.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_logo_uidemo.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_logo_uidemo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_to_group_details_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_to_group_details_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_icon_mute_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_icon_mute_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_create_group.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_create_group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_splash_logo.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_splash_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_voice_call_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_chat_voice_call_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_video_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_chat_video_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_settings_selected.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_settings_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_add_public_group.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_add_public_group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_groups_icon.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_groups_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_icon_mute_on.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_icon_mute_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_icon_speaker_on.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_icon_speaker_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_group_icon.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_group_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_voice_call_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_chat_voice_call_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_file_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_chat_file_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_video_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_chat_video_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_video_call_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_chat_video_call_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_splash.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_splash.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_file_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_chat_file_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_chat_video_call_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_chat_video_call_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\em_settings_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-xhdpi\\em_settings_normal.png"
+    }
+]

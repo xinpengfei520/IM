@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_027_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_027_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_conversation_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_conversation_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_024_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_024_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_profile_headphoto_update_icon.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_profile_headphoto_update_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_smiley_add_btn_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_smiley_add_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_create_group.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_create_group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_mm_title_back.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_mm_title_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_021_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_021_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_ic_right_arrow.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_ic_right_arrow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_conversation_selected.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_conversation_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_smiley_add_btn_nor.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_smiley_add_btn_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_new_friends_icon.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_new_friends_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_login_error_icon.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_login_error_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_close_bg_tap.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_logo_uidemo.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_logo_uidemo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_welcom_logo.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_welcom_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_035_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_035_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_add_public_group.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_add_public_group.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_msg_state_fail_resend.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_msg_state_fail_resend.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_actionbar_camera_icon.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_actionbar_camera_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_dx_checkbox_on.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_dx_checkbox_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_camera_switch_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_camera_switch_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_007_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_007_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_roominfo_add_btn_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_roominfo_add_btn_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_roominfo_add_btn_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_roominfo_add_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_dx_checkbox_gray_on.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_dx_checkbox_gray_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_mm_title_act_btn_pressed.9.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_mm_title_act_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_smiley_minus_btn_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_smiley_minus_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_040_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_040_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_settings_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_settings_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_020_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_020_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_030_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_030_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_btn_style_alert_dialog_background.9.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_btn_style_alert_dialog_background.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_010_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_010_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_video_recorder_stop_btn.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_video_recorder_stop_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_default_avatar.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_default_avatar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_unread_count_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_unread_count_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_mm_title_act_btn_normal.9.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_mm_title_act_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_icon_account.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_icon_account.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_add.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_add.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_contact_list_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_contact_list_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_018_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_018_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_video_recorder_start_btn.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_video_recorder_start_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_022_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_022_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_app_pref_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_app_pref_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_012_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_012_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_029_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_029_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_019_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_019_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_contact_list_selected.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_contact_list_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_smiley_minus_btn_nor.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_smiley_minus_btn_nor.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_update_close_bg_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_settings_selected.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_settings_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_002_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_002_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_dx_checkbox_off.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_dx_checkbox_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_icon_pwd.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_icon_pwd.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_show_head_toast_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_show_head_toast_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_013_cover.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\icon_013_cover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_to_group_details_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_to_group_details_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_search_bar_icon_normal.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_search_bar_icon_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_groups_icon.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_groups_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_seabar_input.9.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_seabar_input.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\em_camera_switch_pressed.9.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable-hdpi\\em_camera_switch_pressed.9.png"
+    }
+]

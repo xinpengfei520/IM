@@ -4,14 +4,17 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.atguigu.im.R;
 import com.atguigu.im.controller.activity.LoginActivity;
+import com.atguigu.im.controller.activity.MyCodeActivity;
 import com.atguigu.im.model.Model;
 import com.hyphenate.EMCallBack;
 import com.hyphenate.chat.EMClient;
@@ -30,6 +33,11 @@ public class SettingFragment extends Fragment {
 
     @BindView(R.id.btn_logout)
     Button btnLogout;
+
+    @BindView(R.id.tv_my_code)
+    TextView tvMyCode;
+
+    private String currentUser;
 
     @Nullable
     @Override
@@ -51,46 +59,60 @@ public class SettingFragment extends Fragment {
 
     //初始化页面数据
     private void initData() {
-        btnLogout.setText("退出登录(" + EMClient.getInstance().getCurrentUser() + ")");
+        currentUser = EMClient.getInstance().getCurrentUser();
+        btnLogout.setText("退出登录(" + currentUser + ")");
     }
 
-    @OnClick(R.id.btn_logout)
-    public void onClick() {
+    @OnClick({R.id.tv_my_code, R.id.btn_logout})
+    public void onClick(View view) {
 
-        Model.getInstance().getGlobalThreadPool().execute(new Runnable() {
-            @Override
-            public void run() {
-                // 去环信服务器请求退出
-                EMClient.getInstance().logout(false, new EMCallBack() {
+        switch (view.getId()) {
+            case R.id.btn_logout:
 
-                    // 退出成功的时候的回调
+                Model.getInstance().getGlobalThreadPool().execute(new Runnable() {
                     @Override
-                    public void onSuccess() {
+                    public void run() {
+                        // 去环信服务器请求退出
+                        EMClient.getInstance().logout(false, new EMCallBack() {
 
-                        // 跳转到登录页面
-                        startActivity(new Intent(getActivity(), LoginActivity.class));
-
-                        // 结束当前页面
-                        getActivity().finish();
-                    }
-
-                    @Override
-                    public void onError(int i, String s) {
-
-                        getActivity().runOnUiThread(new Runnable() {
+                            // 退出成功的时候的回调
                             @Override
-                            public void run() {
-                                Toast.makeText(getActivity(), "退出登录失败", Toast.LENGTH_SHORT).show();
+                            public void onSuccess() {
+
+                                // 跳转到登录页面
+                                startActivity(new Intent(getActivity(), LoginActivity.class));
+
+                                // 结束当前页面
+                                getActivity().finish();
+                            }
+
+                            @Override
+                            public void onError(int i, String s) {
+
+                                getActivity().runOnUiThread(new Runnable() {
+                                    @Override
+                                    public void run() {
+                                        Toast.makeText(getActivity(), "退出登录失败", Toast.LENGTH_SHORT).show();
+                                    }
+                                });
+                            }
+
+                            @Override
+                            public void onProgress(int i, String s) {
+
                             }
                         });
                     }
-
-                    @Override
-                    public void onProgress(int i, String s) {
-
-                    }
                 });
-            }
-        });
+                break;
+
+            case R.id.tv_my_code:
+                Log.e("TAG", "userName==" + currentUser);
+                Intent intent = new Intent(getActivity(), MyCodeActivity.class);
+                intent.putExtra("user", currentUser);
+                startActivity(intent);
+                break;
+        }
     }
+
 }

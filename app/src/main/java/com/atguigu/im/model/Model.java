@@ -41,6 +41,9 @@ public class Model {
 
         //初始化用户账号数据库操作类
         mUserAccountDao = new UserAccountDao(context);
+
+        // 初始化监听
+        EventListener eventListener = new EventListener(mContext);
     }
 
     // 获取全局线程池
@@ -56,7 +59,8 @@ public class Model {
     // 登陆成功后处理的事情
     public void loginSuccess(UserInfo userInfo) {
 
-        if (userInfo != null) {
+        // 校验
+        if (userInfo == null) {
             return;
         }
 

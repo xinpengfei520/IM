@@ -8,8 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/QRCode_lib" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/easeui" />
+            <option value="$PROJECT_DIR$/easeUIDemo_CN" />
+            <option value="$PROJECT_DIR$/easeUI_CN" />
+            <option value="$PROJECT_DIR$/redpacketlibrary" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

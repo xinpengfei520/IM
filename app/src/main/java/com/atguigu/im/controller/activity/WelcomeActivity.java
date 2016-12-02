@@ -7,7 +7,6 @@ import android.os.Handler;
 import android.os.Message;
 
 import com.atguigu.im.R;
-import com.atguigu.im.controller.MainActivity;
 import com.atguigu.im.model.Model;
 import com.atguigu.im.model.bean.UserInfo;
 import com.hyphenate.chat.EMClient;
@@ -27,6 +26,7 @@ public class WelcomeActivity extends Activity {
             toMainOrLogin();
         }
     };
+    private UserInfo account;
 
     private void toMainOrLogin() {
 
@@ -37,12 +37,16 @@ public class WelcomeActivity extends Activity {
                 if (EMClient.getInstance().isLoggedInBefore()) {//登录过
 
                     //获取登录过的用户信息
-                    UserInfo account = Model.getInstance().getUserAccountDao().getAccountByHxId(EMClient.getInstance().getCurrentUser());
+                    account = Model.getInstance().getUserAccountDao().getAccountByHxId(EMClient.getInstance().getCurrentUser());
 
                     if (account == null) {
                         //跳转到登录页面
                         startActivity(new Intent(WelcomeActivity.this, LoginActivity.class));
                     } else {
+
+                        // 当登录成功的回调创建DBManager对象
+                        Model.getInstance().loginSuccess(account);
+
                         //跳转到主页面
                         startActivity(new Intent(WelcomeActivity.this, MainActivity.class));
                     }
@@ -65,7 +69,7 @@ public class WelcomeActivity extends Activity {
         setContentView(R.layout.activity_welcome);
 
         // 发送一个延时2s的消息
-        handler.sendMessageDelayed(Message.obtain(), 2000);
+        handler.sendMessageDelayed(Message.obtain(), 3000);
     }
 
     @Override

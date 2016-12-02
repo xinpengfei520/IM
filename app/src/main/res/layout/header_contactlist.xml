@@ -11,10 +11,24 @@
         android:orientation="horizontal"
         android:padding="10dp">
 
-        <ImageView
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:src="@drawable/em_new_friends_icon" />
+        <RelativeLayout
+            android:layout_width="56dp"
+            android:layout_height="58dp">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/em_new_friends_icon"
+                android:layout_centerVertical="true"/>
+
+            <ImageView
+                android:id="@+id/iv_contactlist_red"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:src="@android:drawable/ic_notification_overlay" />
+
+        </RelativeLayout>
 
         <TextView
             android:layout_width="wrap_content"

@@ -47,6 +47,7 @@ public class AddContactActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_contact);
         ButterKnife.bind(this);
+
     }
 
     @OnClick({R.id.tv_search, R.id.btn_add, R.id.rl_add})

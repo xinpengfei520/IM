@@ -1,1 +1,1 @@
-include ':app', ':easeui'
+include ':app', ':QRCode_lib', ':easeUIDemo_CN', ':easeUI_CN', ':redpacketlibrary'
