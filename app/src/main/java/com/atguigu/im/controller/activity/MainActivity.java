@@ -22,19 +22,14 @@ public class MainActivity extends FragmentActivity {
 
     @BindView(R.id.fl_main)
     FrameLayout flMain;
-
     @BindView(R.id.rb_main_chat)
     RadioButton rbMainChat;
-
     @BindView(R.id.rb_main_contact)
     RadioButton rbMainContact;
-
     @BindView(R.id.rb_main_discover)
     RadioButton rbMainDiscover;
-
     @BindView(R.id.rb_main_setting)
     RadioButton rbMainSetting;
-
     @BindView(rg_main)
     RadioGroup rgMain;
 
@@ -51,10 +46,10 @@ public class MainActivity extends FragmentActivity {
 
         initData();
 
+        // 先设置监听,然后再选中一个默认的页面
+        rgMain.setOnCheckedChangeListener(new MyOnCheckedChangeListener());
         // 默认选择会话列表页面
         rgMain.check(R.id.rb_main_chat);
-
-        rgMain.setOnCheckedChangeListener(new MyOnCheckedChangeListener());
     }
 
     private void initData() {
