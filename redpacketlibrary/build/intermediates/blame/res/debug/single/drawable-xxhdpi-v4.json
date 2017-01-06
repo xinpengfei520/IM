@@ -212,12 +212,12 @@
         "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_picture_vague.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_load_dark_4.png",
-        "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_load_dark_4.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_pop_bg.9.png",
         "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_pop_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_load_dark_4.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\src\\main\\res\\drawable-xxhdpi\\rp_load_dark_4.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_load_dark_9.png",

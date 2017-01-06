@@ -32,40 +32,40 @@
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\redpacketlibrary\\unspecified\\res\\drawable\\em_red_packet_chatto_bg.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable\\em_smiley_minus_btn.xml",
-        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable\\em_smiley_minus_btn.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_red.xml",
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable\\umeng_common_gradient_red.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
-        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable\\ease_chatting_setmode_voice_btn.xml"
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable\\em_smiley_minus_btn.xml",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable\\em_smiley_minus_btn.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable\\em_tab_contact_list_bg.xml",
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable\\em_tab_contact_list_bg.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_pressed_shape.xml",
-        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\redpacketlibrary\\unspecified\\res\\drawable\\rp_btn_blue_pressed_shape.xml"
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable\\ease_chatting_setmode_voice_btn.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable\\em_button_bg.xml",
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable\\em_button_bg.xml"
     },
     {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable\\rp_btn_blue_pressed_shape.xml",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\redpacketlibrary\\unspecified\\res\\drawable\\rp_btn_blue_pressed_shape.xml"
+    },
+    {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable\\em_tab_setting_bg.xml",
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable\\em_tab_setting_bg.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_edit_text_bg.xml",
-        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable\\ease_edit_text_bg.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_close_bg_selector.xml",
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_edit_text_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable\\ease_edit_text_bg.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_pressed_shape.xml",

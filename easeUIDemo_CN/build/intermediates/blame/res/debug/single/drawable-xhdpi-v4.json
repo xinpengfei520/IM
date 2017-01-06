@@ -92,12 +92,12 @@
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-xhdpi-v4\\ease_chat_image_normal.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ease_open_icon.png",
-        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-xhdpi-v4\\ease_open_icon.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ease_chat_send_btn_normal.9.png",
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-xhdpi-v4\\ease_chat_send_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ease_open_icon.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-xhdpi-v4\\ease_open_icon.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ease_chat_video_call_self.png",

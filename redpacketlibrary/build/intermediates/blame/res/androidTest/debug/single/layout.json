@@ -12,12 +12,12 @@
         "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\rp_received_record_list_header.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_baidumap.xml",
-        "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\layout\\ease_activity_baidumap.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
         "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\layout\\ease_activity_baidumap.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rp_hint_message_dialog.xml",

@@ -12,12 +12,12 @@
         "source": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\src\\main\\res\\drawable-hdpi\\ease_location_msg.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ease_type_select_btn_nor.png",
-        "source": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\src\\main\\res\\drawable-hdpi\\ease_type_select_btn_nor.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ease_record_animate_02.png",
         "source": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\src\\main\\res\\drawable-hdpi\\ease_record_animate_02.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ease_type_select_btn_nor.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\src\\main\\res\\drawable-hdpi\\ease_type_select_btn_nor.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ease_chatting_setmode_keyboard_btn_pressed.png",
@@ -188,12 +188,12 @@
         "source": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\src\\main\\res\\drawable-hdpi\\ease_msg_state_fail_resend.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ee_26.png",
-        "source": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\src\\main\\res\\drawable-hdpi\\ee_26.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ee_23.png",
         "source": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\src\\main\\res\\drawable-hdpi\\ee_23.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ee_26.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\src\\main\\res\\drawable-hdpi\\ee_26.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUI_CN\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ease_appitem_del_btn_normal.png",

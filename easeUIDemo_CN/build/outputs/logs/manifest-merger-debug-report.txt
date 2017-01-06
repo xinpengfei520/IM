@@ -20,11 +20,11 @@ ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xm
 MERGED from [IM:redpacketlibrary:unspecified] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\IM\redpacketlibrary\unspecified\AndroidManifest.xml:5:5-7:41
 MERGED from [IM:easeUI_CN:unspecified] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\IM\easeUI_CN\unspecified\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-v4:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-compat:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-core-utils:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-media-compat:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-ui:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-fragment:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v4:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
@@ -146,11 +146,11 @@ ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xm
 application
 ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:49:5-442:19
 MERGED from [com.android.support:support-v4:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-utils:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-ui:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:53:9-41
 	android:allowBackup

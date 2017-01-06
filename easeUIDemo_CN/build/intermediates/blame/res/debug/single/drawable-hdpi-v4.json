@@ -136,12 +136,12 @@
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-hdpi-v4\\ease_record_animate_12.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_ic_launcher.png",
-        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-hdpi-v4\\ease_ic_launcher.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatfrom_voice_playing_f3.png",
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-hdpi-v4\\ease_chatfrom_voice_playing_f3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-hdpi-v4\\ease_ic_launcher.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_30.png",
@@ -488,12 +488,12 @@
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-hdpi-v4\\ee_15.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_18.png",
-        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-hdpi-v4\\ee_18.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_app_panel_video_icon.9.png",
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-hdpi-v4\\ease_app_panel_video_icon.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_18.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-hdpi-v4\\ee_18.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ee_6.png",
@@ -516,11 +516,11 @@
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-hdpi-v4\\ease_seabar_input.9.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatfrom_bg_focused.9.png",
-        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-hdpi-v4\\ease_chatfrom_bg_focused.9.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_video_recorder_start_btn.png",
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-hdpi-v4\\ease_video_recorder_start_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ease_chatfrom_bg_focused.9.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\easeUI_CN\\unspecified\\res\\drawable-hdpi-v4\\ease_chatfrom_bg_focused.9.png"
     }
 ]

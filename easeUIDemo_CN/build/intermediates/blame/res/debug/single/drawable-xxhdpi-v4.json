@@ -180,12 +180,12 @@
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\redpacketlibrary\\unspecified\\res\\drawable-xxhdpi-v4\\rp_change_icon.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_exclusive_sender_avatar_bg.png",
-        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\redpacketlibrary\\unspecified\\res\\drawable-xxhdpi-v4\\rp_exclusive_sender_avatar_bg.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_back_arrow_black.png",
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\redpacketlibrary\\unspecified\\res\\drawable-xxhdpi-v4\\rp_back_arrow_black.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_exclusive_sender_avatar_bg.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\redpacketlibrary\\unspecified\\res\\drawable-xxhdpi-v4\\rp_exclusive_sender_avatar_bg.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\rp_no_bankcard.png",

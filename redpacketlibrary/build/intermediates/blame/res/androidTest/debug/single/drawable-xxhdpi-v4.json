@@ -76,12 +76,12 @@
         "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_question_blue.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_exclusive_avatar.png",
-        "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_exclusive_avatar.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_arrow_forward.png",
         "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_arrow_forward.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_exclusive_avatar.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_exclusive_avatar.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\em_red_packet_chatto_bg_normal.9.png",
@@ -192,12 +192,12 @@
         "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\em_chat_red_packet_normal.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_picture_vague.png",
-        "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_picture_vague.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_question_white.png",
         "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_question_white.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_picture_vague.png",
+        "source": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\rp_picture_vague.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\redpacketlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\rp_question_black.png",

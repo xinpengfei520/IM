@@ -12,16 +12,16 @@
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\redpacketlibrary\\unspecified\\res\\layout\\rp_pay_add_card_dialog.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\layout\\em_contacts_header.xml",
-        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\layout\\em_contacts_header.xml"
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\layout\\rp_fragment_group_chat_packet.xml",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\redpacketlibrary\\unspecified\\res\\layout\\rp_fragment_group_chat_packet.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\layout\\em_context_menu_for_video.xml",
         "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\layout\\em_context_menu_for_video.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\layout\\rp_fragment_group_chat_packet.xml",
-        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\exploded-aar\\IM\\redpacketlibrary\\unspecified\\res\\layout\\rp_fragment_group_chat_packet.xml"
+        "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\layout\\em_contacts_header.xml",
+        "source": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\src\\main\\res\\layout\\em_contacts_header.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\IM\\easeUIDemo_CN\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_pick_contact_no_checkbox.xml",
