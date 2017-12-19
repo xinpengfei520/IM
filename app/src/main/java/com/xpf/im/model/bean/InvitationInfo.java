@@ -1,4 +1,4 @@
-package com.atguigu.im.model.bean;
+package com.xpf.im.model.bean;
 
 /**
  * Created by xpf on 2016/11/2 :)

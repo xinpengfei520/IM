@@ -1,4 +1,4 @@
-package com.atguigu.im.controller.activity;
+package com.xpf.im.controller.activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -9,14 +9,14 @@ import android.widget.CheckBox;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.atguigu.im.R;
-import com.atguigu.im.controller.adapter.PickContactAdapter;
-import com.atguigu.im.model.Model;
-import com.atguigu.im.model.bean.PickContactInfo;
-import com.atguigu.im.model.bean.UserInfo;
-import com.atguigu.im.utils.Constant;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMGroup;
+import com.xpf.im.R;
+import com.xpf.im.controller.adapter.PickContactAdapter;
+import com.xpf.im.model.Model;
+import com.xpf.im.model.bean.PickContactInfo;
+import com.xpf.im.model.bean.UserInfo;
+import com.xpf.im.utils.Constant;
 
 import java.util.ArrayList;
 import java.util.List;

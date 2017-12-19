@@ -1,13 +1,13 @@
-package com.atguigu.im.model.dao;
+package com.xpf.im.model.dao;
 
 import android.content.ContentValues;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.atguigu.im.model.bean.GroupInfo;
-import com.atguigu.im.model.bean.InvitationInfo;
-import com.atguigu.im.model.bean.UserInfo;
-import com.atguigu.im.model.db.DBHelper;
+import com.xpf.im.model.bean.GroupInfo;
+import com.xpf.im.model.bean.InvitationInfo;
+import com.xpf.im.model.bean.UserInfo;
+import com.xpf.im.model.db.DBHelper;
 
 import java.util.ArrayList;
 import java.util.List;

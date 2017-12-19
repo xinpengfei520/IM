@@ -1,10 +1,10 @@
-package com.atguigu.im.model;
+package com.xpf.im.model;
 
 import android.content.Context;
 
-import com.atguigu.im.model.bean.UserInfo;
-import com.atguigu.im.model.dao.UserAccountDao;
-import com.atguigu.im.model.db.DBManager;
+import com.xpf.im.model.bean.UserInfo;
+import com.xpf.im.model.dao.UserAccountDao;
+import com.xpf.im.model.db.DBManager;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

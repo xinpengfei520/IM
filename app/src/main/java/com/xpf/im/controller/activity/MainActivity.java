@@ -1,4 +1,4 @@
-package com.atguigu.im.controller.activity;
+package com.xpf.im.controller.activity;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -7,16 +7,14 @@ import android.widget.FrameLayout;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
-import com.atguigu.im.R;
-import com.atguigu.im.controller.fragment.ContactListFragment;
-import com.atguigu.im.controller.fragment.ConversationFragment;
-import com.atguigu.im.controller.fragment.DiscoverFragment;
-import com.atguigu.im.controller.fragment.SettingFragment;
+import com.xpf.im.R;
+import com.xpf.im.controller.fragment.ContactListFragment;
+import com.xpf.im.controller.fragment.ConversationFragment;
+import com.xpf.im.controller.fragment.DiscoverFragment;
+import com.xpf.im.controller.fragment.SettingFragment;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-
-import static com.atguigu.im.R.id.rg_main;
 
 public class MainActivity extends FragmentActivity {
 
@@ -30,7 +28,7 @@ public class MainActivity extends FragmentActivity {
     RadioButton rbMainDiscover;
     @BindView(R.id.rb_main_setting)
     RadioButton rbMainSetting;
-    @BindView(rg_main)
+    @BindView(R.id.rg_main)
     RadioGroup rgMain;
 
     private ConversationFragment conversationFragment;

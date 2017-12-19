@@ -1,4 +1,4 @@
-package com.atguigu.im.model.dao;
+package com.xpf.im.model.dao;
 
 /**
  * Created by xpf on 2016/11/1 :)

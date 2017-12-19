@@ -1,4 +1,4 @@
-package com.atguigu.im.controller.adapter;
+package com.xpf.im.controller.adapter;
 
 import android.content.Context;
 import android.view.View;
@@ -7,8 +7,8 @@ import android.widget.BaseAdapter;
 import android.widget.CheckBox;
 import android.widget.TextView;
 
-import com.atguigu.im.R;
-import com.atguigu.im.model.bean.PickContactInfo;
+import com.xpf.im.R;
+import com.xpf.im.model.bean.PickContactInfo;
 
 import java.util.ArrayList;
 import java.util.List;

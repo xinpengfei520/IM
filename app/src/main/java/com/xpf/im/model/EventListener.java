@@ -1,15 +1,15 @@
-package com.atguigu.im.model;
+package com.xpf.im.model;
 
 import android.content.Context;
 import android.content.Intent;
 import android.support.v4.content.LocalBroadcastManager;
 import android.util.Log;
 
-import com.atguigu.im.model.bean.GroupInfo;
-import com.atguigu.im.model.bean.InvitationInfo;
-import com.atguigu.im.model.bean.UserInfo;
-import com.atguigu.im.utils.Constant;
-import com.atguigu.im.utils.SPUtil;
+import com.xpf.im.model.bean.GroupInfo;
+import com.xpf.im.model.bean.InvitationInfo;
+import com.xpf.im.model.bean.UserInfo;
+import com.xpf.im.utils.Constant;
+import com.xpf.im.utils.SPUtil;
 import com.hyphenate.EMContactListener;
 import com.hyphenate.EMGroupChangeListener;
 import com.hyphenate.chat.EMClient;

@@ -1,4 +1,4 @@
-package com.atguigu.im.controller.activity;
+package com.xpf.im.controller.activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -11,15 +11,15 @@ import android.widget.Button;
 import android.widget.GridView;
 import android.widget.Toast;
 
-import com.atguigu.im.ImApplication;
-import com.atguigu.im.R;
-import com.atguigu.im.controller.adapter.GroupDetailAdapter;
-import com.atguigu.im.model.Model;
-import com.atguigu.im.model.bean.UserInfo;
-import com.atguigu.im.utils.Constant;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMGroup;
 import com.hyphenate.exceptions.HyphenateException;
+import com.xpf.im.ImApplication;
+import com.xpf.im.R;
+import com.xpf.im.controller.adapter.GroupDetailAdapter;
+import com.xpf.im.model.Model;
+import com.xpf.im.model.bean.UserInfo;
+import com.xpf.im.utils.Constant;
 
 import java.util.ArrayList;
 import java.util.List;

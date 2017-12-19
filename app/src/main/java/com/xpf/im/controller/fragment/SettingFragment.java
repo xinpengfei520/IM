@@ -1,4 +1,4 @@
-package com.atguigu.im.controller.fragment;
+package com.xpf.im.controller.fragment;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,12 +12,12 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.atguigu.im.R;
-import com.atguigu.im.controller.activity.LoginActivity;
-import com.atguigu.im.controller.activity.MyCodeActivity;
-import com.atguigu.im.model.Model;
 import com.hyphenate.EMCallBack;
 import com.hyphenate.chat.EMClient;
+import com.xpf.im.R;
+import com.xpf.im.controller.activity.LoginActivity;
+import com.xpf.im.controller.activity.MyCodeActivity;
+import com.xpf.im.model.Model;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

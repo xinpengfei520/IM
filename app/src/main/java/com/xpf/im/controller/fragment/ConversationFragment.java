@@ -1,4 +1,4 @@
-package com.atguigu.im.controller.fragment;
+package com.xpf.im.controller.fragment;
 
 import android.content.Intent;
 import android.graphics.drawable.BitmapDrawable;
@@ -7,12 +7,6 @@ import android.view.animation.Animation;
 import android.view.animation.ScaleAnimation;
 import android.widget.PopupWindow;
 
-import com.atguigu.im.R;
-import com.atguigu.im.controller.activity.AddContactActivity;
-import com.atguigu.im.controller.activity.ChatActivity;
-import com.atguigu.im.controller.activity.GroupListActivity;
-import com.atguigu.im.controller.activity.ScanResultActivity;
-import com.atguigu.im.utils.DensityUtil;
 import com.hyphenate.EMMessageListener;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMConversation;
@@ -20,6 +14,12 @@ import com.hyphenate.chat.EMMessage;
 import com.hyphenate.easeui.EaseConstant;
 import com.hyphenate.easeui.controller.EaseUI;
 import com.hyphenate.easeui.ui.EaseConversationListFragment;
+import com.xpf.im.R;
+import com.xpf.im.controller.activity.AddContactActivity;
+import com.xpf.im.controller.activity.ChatActivity;
+import com.xpf.im.controller.activity.GroupListActivity;
+import com.xpf.im.controller.activity.ScanResultActivity;
+import com.xpf.im.utils.DensityUtil;
 
 import java.util.List;
 

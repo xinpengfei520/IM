@@ -1,10 +1,10 @@
-package com.atguigu.im.controller.activity;
+package com.xpf.im.controller.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.ImageView;
 
-import com.atguigu.im.R;
+import com.xpf.im.R;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

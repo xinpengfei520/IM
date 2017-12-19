@@ -1,4 +1,4 @@
-package com.atguigu.im.utils;
+package com.xpf.im.utils;
 
 import android.content.Context;
 

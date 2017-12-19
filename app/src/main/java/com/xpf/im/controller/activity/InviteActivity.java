@@ -1,4 +1,4 @@
-package com.atguigu.im.controller.activity;
+package com.xpf.im.controller.activity;
 
 import android.app.Activity;
 import android.content.BroadcastReceiver;
@@ -10,14 +10,14 @@ import android.support.v4.content.LocalBroadcastManager;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.atguigu.im.ImApplication;
-import com.atguigu.im.R;
-import com.atguigu.im.controller.adapter.InviteAdapter;
-import com.atguigu.im.model.Model;
-import com.atguigu.im.model.bean.InvitationInfo;
-import com.atguigu.im.utils.Constant;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.exceptions.HyphenateException;
+import com.xpf.im.ImApplication;
+import com.xpf.im.R;
+import com.xpf.im.controller.adapter.InviteAdapter;
+import com.xpf.im.model.Model;
+import com.xpf.im.model.bean.InvitationInfo;
+import com.xpf.im.utils.Constant;
 
 import java.util.List;
 

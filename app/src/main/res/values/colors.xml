@@ -3,4 +3,51 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="light_blue">#33adff</color>
+    <color name="orange">#ff7e00</color>
+    <color name="light_grey">#dadada</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#00C4CC</color>
+    <color name="remainTime">#FF3A3A</color>
+    <color name="anloqbig">#3C5A38</color>
+    <color name="logintop">#7ED320</color>
+    <color name="gray_bg">#11000000</color>
+    <color name="dark">#000000</color>
+    <color name="gray_true">#E9E9E9</color>
+    <color name="gray_false">#33000000</color>
+
+    <color name="pale_blue_card_start">#6B7FFF8F</color>
+    <color name="pale_blue_card_end">#00F6FF</color>
+    <color name="sea_blue_card_start">#6B45BFDB</color>
+    <color name="sea_blue_card_end">#21D3C9</color>
+    <color name="yellow_purple_card_start">#6BEB9E45</color>
+    <color name="yellow_purple_card_end">#D321D2</color>
+    <color name="orange_card_start">#6BDCFA61</color>
+    <color name="orange_card_end">#F76B1C</color>
+    <color name="grass_green_card_start">#6BB5EB45</color>
+    <color name="card_apply_start">#B5EB45</color>
+    <color name="grass_green_card_end">#7ED321</color>
+
+    <color name="main_color">#7ED321</color>
+    <color name="sup_color_green_pale">#A5FF50</color>
+    <color name="sup_color_green_deep">#73C518</color>
+    <color name="sup_color_red_pale">#FF5B7F</color>
+    <color name="sup_color_red_deep">#ED4C6F</color>
+    <color name="sup_color_yellow">#FFC159</color>
+    <color name="gray_a">#4F4F4F</color>
+    <color name="gray_b">#828282</color>
+    <color name="gray_c">#BDBDBD</color>
+    <color name="gray_d">#E0E0E0</color>
+    <color name="gray_e">#F2F2F2</color>
+    <color name="gray_f">#F8F8F8</color>
+    <color name="transparent">#00000000</color>
+    <color name="half_transparent">#80000000</color>
+    <color name="transparency">#00000000</color>
+
+    <!-- textColor -->
+    <color name="text_color_4f4f4f">#4F4F4F</color>
+    <color name="text_color_bdbdbd">#BDBDBD</color>
+    <color name="text_color_828282">#828282</color>
+    <color name="text_color_4eb855">#4EB855</color>
 </resources>

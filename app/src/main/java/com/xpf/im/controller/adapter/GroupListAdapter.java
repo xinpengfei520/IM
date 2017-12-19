@@ -1,4 +1,4 @@
-package com.atguigu.im.controller.adapter;
+package com.xpf.im.controller.adapter;
 
 import android.content.Context;
 import android.view.View;
@@ -6,8 +6,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.atguigu.im.R;
 import com.hyphenate.chat.EMGroup;
+import com.xpf.im.R;
 
 import java.util.ArrayList;
 import java.util.List;

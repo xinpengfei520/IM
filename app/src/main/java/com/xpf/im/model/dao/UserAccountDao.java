@@ -1,12 +1,12 @@
-package com.atguigu.im.model.dao;
+package com.xpf.im.model.dao;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.atguigu.im.model.bean.UserInfo;
-import com.atguigu.im.model.db.UserAccountDB;
+import com.xpf.im.model.bean.UserInfo;
+import com.xpf.im.model.db.UserAccountDB;
 
 /**
  * Created by xpf on 2016/11/1 :)

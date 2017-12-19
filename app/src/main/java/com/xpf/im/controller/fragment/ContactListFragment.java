@@ -1,4 +1,4 @@
-package com.atguigu.im.controller.fragment;
+package com.xpf.im.controller.fragment;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -14,21 +14,21 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
-import com.atguigu.im.ImApplication;
-import com.atguigu.im.R;
-import com.atguigu.im.controller.activity.AddContactActivity;
-import com.atguigu.im.controller.activity.ChatActivity;
-import com.atguigu.im.controller.activity.GroupListActivity;
-import com.atguigu.im.controller.activity.InviteActivity;
-import com.atguigu.im.model.Model;
-import com.atguigu.im.model.bean.UserInfo;
-import com.atguigu.im.utils.Constant;
-import com.atguigu.im.utils.SPUtil;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.easeui.EaseConstant;
 import com.hyphenate.easeui.domain.EaseUser;
 import com.hyphenate.easeui.ui.EaseContactListFragment;
 import com.hyphenate.exceptions.HyphenateException;
+import com.xpf.im.ImApplication;
+import com.xpf.im.R;
+import com.xpf.im.controller.activity.AddContactActivity;
+import com.xpf.im.controller.activity.ChatActivity;
+import com.xpf.im.controller.activity.GroupListActivity;
+import com.xpf.im.controller.activity.InviteActivity;
+import com.xpf.im.model.Model;
+import com.xpf.im.model.bean.UserInfo;
+import com.xpf.im.utils.Constant;
+import com.xpf.im.utils.SPUtil;
 
 import java.util.ArrayList;
 import java.util.HashMap;

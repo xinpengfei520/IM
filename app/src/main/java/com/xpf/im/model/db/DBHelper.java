@@ -1,11 +1,11 @@
-package com.atguigu.im.model.db;
+package com.xpf.im.model.db;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.atguigu.im.model.dao.ContactTable;
-import com.atguigu.im.model.dao.InvitationTable;
+import com.xpf.im.model.dao.ContactTable;
+import com.xpf.im.model.dao.InvitationTable;
 
 /**
  * Created by xpf on 2016/11/2 :)

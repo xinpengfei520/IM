@@ -1,9 +1,9 @@
-package com.atguigu.im.utils;
+package com.xpf.im.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 
-import com.atguigu.im.ImApplication;
+import com.xpf.im.ImApplication;
 
 /**
  * Created by xpf on 2016/11/4 :)

@@ -1,4 +1,4 @@
-package com.atguigu.im.controller.fragment;
+package com.xpf.im.controller.fragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -21,11 +21,9 @@ public class DiscoverFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-
         textView = new TextView(getActivity());
         textView.setText("发现页面");
         textView.setTextSize(20);
-
         return textView;
     }
 }

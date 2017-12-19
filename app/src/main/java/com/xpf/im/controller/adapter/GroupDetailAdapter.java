@@ -1,4 +1,4 @@
-package com.atguigu.im.controller.adapter;
+package com.xpf.im.controller.adapter;
 
 import android.content.Context;
 import android.view.View;
@@ -7,8 +7,8 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.atguigu.im.R;
-import com.atguigu.im.model.bean.UserInfo;
+import com.xpf.im.R;
+import com.xpf.im.model.bean.UserInfo;
 
 import java.util.ArrayList;
 import java.util.List;

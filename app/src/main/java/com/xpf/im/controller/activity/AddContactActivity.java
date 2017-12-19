@@ -1,4 +1,4 @@
-package com.atguigu.im.controller.activity;
+package com.xpf.im.controller.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -10,11 +10,11 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.atguigu.im.R;
-import com.atguigu.im.model.Model;
-import com.atguigu.im.model.bean.UserInfo;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.exceptions.HyphenateException;
+import com.xpf.im.R;
+import com.xpf.im.model.Model;
+import com.xpf.im.model.bean.UserInfo;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

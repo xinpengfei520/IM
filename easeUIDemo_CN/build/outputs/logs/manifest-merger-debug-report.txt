@@ -1,767 +1,826 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:2:1-444:12
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:2:1-444:12
+INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:2:1-444:12
+INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:2:1-444:12
+INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:2:1-444:12
+MERGED from [:redpacketlibrary] E:\03_AndroidStudioProject\IM\redpacketlibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:easeUI_CN] E:\03_AndroidStudioProject\IM\easeUI_CN\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ec337bbb59d8d86c1200948800f678e9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\005ccbc2a01686468f2d59e09e1b69fe\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\567c64535bfffd26f8e8af13fb5b4168\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b744da91ee5789400f0e27507decefd6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9d77ca3a2829d57926c2d6b50fa906b8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1f40d1dc8079dd6f8ffc2728ea505e3d\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\306e04c988762c5de8e8c0bad3560c17\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:2:1-444:12
+INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:2:1-444:12
+INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:2:1-444:12
 	package
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:5:5-32
-		INJECTED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
-	android:versionCode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:4:5-29
-		INJECTED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [IM:redpacketlibrary:unspecified] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\IM\redpacketlibrary\unspecified\AndroidManifest.xml:5:5-7:41
-MERGED from [IM:easeUI_CN:unspecified] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\IM\easeUI_CN\unspecified\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-media-compat:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [:redpacketlibrary] E:\03_AndroidStudioProject\IM\redpacketlibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:redpacketlibrary] E:\03_AndroidStudioProject\IM\redpacketlibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:easeUI_CN] E:\03_AndroidStudioProject\IM\easeUI_CN\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:easeUI_CN] E:\03_AndroidStudioProject\IM\easeUI_CN\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ec337bbb59d8d86c1200948800f678e9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ec337bbb59d8d86c1200948800f678e9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\005ccbc2a01686468f2d59e09e1b69fe\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\005ccbc2a01686468f2d59e09e1b69fe\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\567c64535bfffd26f8e8af13fb5b4168\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\567c64535bfffd26f8e8af13fb5b4168\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b744da91ee5789400f0e27507decefd6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b744da91ee5789400f0e27507decefd6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9d77ca3a2829d57926c2d6b50fa906b8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9d77ca3a2829d57926c2d6b50fa906b8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1f40d1dc8079dd6f8ffc2728ea505e3d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1f40d1dc8079dd6f8ffc2728ea505e3d\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\306e04c988762c5de8e8c0bad3560c17\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\306e04c988762c5de8e8c0bad3560c17\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ec337bbb59d8d86c1200948800f678e9\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:8:9-35
-		INJECTED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml
 uses-permission#android.permission.VIBRATE
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:11:5-66
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:11:5-66
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:11:22-63
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:11:22-63
 uses-permission#android.permission.INTERNET
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:12:5-67
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:12:22-64
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:13:5-71
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:13:5-71
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:13:22-68
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:13:22-68
 uses-permission#android.permission.CAMERA
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:14:5-65
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:14:5-65
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:14:22-62
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:14:22-62
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:15:5-79
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:15:22-76
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:15:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:16:5-81
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:16:5-81
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:16:22-78
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:16:22-78
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:17:5-84
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:17:5-84
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:17:22-81
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:17:22-81
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:18:5-79
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:18:5-79
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:18:22-76
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:18:22-76
 uses-permission#android.permission.GET_TASKS
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:19:5-68
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:19:5-68
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:19:22-65
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:19:22-65
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:20:5-76
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:20:5-76
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:20:22-73
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:20:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:21:5-76
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:21:5-76
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:21:22-73
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:21:22-73
 uses-permission#android.permission.WAKE_LOCK
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:22:5-68
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:22:5-68
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:22:22-65
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:22:22-65
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:23:5-80
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:23:5-80
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:23:22-77
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:23:22-77
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:24:5-75
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:24:5-75
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:24:22-72
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:24:22-72
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:25:5-81
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:25:5-81
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:25:22-78
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:25:22-78
 uses-permission#android.permission.USE_CREDENTIALS
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:26:5-74
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:26:5-74
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:26:22-71
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:26:22-71
 uses-permission#com.android.launcher.permission.READ_SETTINGS
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:27:5-85
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:27:5-85
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:27:22-82
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:27:22-82
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:28:5-75
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:28:5-75
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:28:22-72
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:28:22-72
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:29:5-73
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:29:5-73
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:29:22-70
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:29:22-70
 uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:30:5-95
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:30:5-95
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:30:22-92
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:30:22-92
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:33:5-82
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:33:5-82
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:33:22-79
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:33:22-79
 permission#com.hyphenate.chatuidemo.permission.C2D_MESSAGE
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:35:5-37:47
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:35:5-37:47
 	android:protectionLevel
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:37:9-44
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:37:9-44
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:36:9-71
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:36:9-71
 uses-permission#com.hyphenate.chatuidemo.permission.C2D_MESSAGE
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:39:5-87
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:39:5-87
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:39:22-84
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:39:22-84
 permission#com.hyphenate.chatuidemo.permission.MIPUSH_RECEIVE
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:41:5-43:47
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:41:5-43:47
 	android:protectionLevel
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:43:9-44
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:43:9-44
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:42:9-74
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:42:9-74
 uses-permission#com.hyphenate.chatuidemo.permission.MIPUSH_RECEIVE
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:45:5-90
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:45:5-90
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:45:22-87
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:45:22-87
 android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:47:5-88
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:47:5-88
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:47:30-85
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:47:30-85
 application
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:49:5-442:19
-MERGED from [com.android.support:support-v4:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.0] D:\AndroidStudioProjects\IM\easeUIDemo_CN\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:49:5-442:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ec337bbb59d8d86c1200948800f678e9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ec337bbb59d8d86c1200948800f678e9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\005ccbc2a01686468f2d59e09e1b69fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\005ccbc2a01686468f2d59e09e1b69fe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\567c64535bfffd26f8e8af13fb5b4168\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\567c64535bfffd26f8e8af13fb5b4168\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b744da91ee5789400f0e27507decefd6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b744da91ee5789400f0e27507decefd6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9d77ca3a2829d57926c2d6b50fa906b8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9d77ca3a2829d57926c2d6b50fa906b8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1f40d1dc8079dd6f8ffc2728ea505e3d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1f40d1dc8079dd6f8ffc2728ea505e3d\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\306e04c988762c5de8e8c0bad3560c17\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\306e04c988762c5de8e8c0bad3560c17\AndroidManifest.xml:24:5-28:19
 	android:label
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:53:9-41
-	android:allowBackup
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:51:9-35
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:53:9-41
 	android:icon
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:52:9-48
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:52:9-48
+	android:allowBackup
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:51:9-35
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:50:9-40
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:50:9-40
 activity#com.hyphenate.chatuidemo.ui.MainActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:54:9-59:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:54:9-59:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:57:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:57:13-49
 	android:launchMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:56:13-44
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:56:13-44
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:59:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:59:13-52
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:58:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:58:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:55:13-44
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:55:13-44
 activity#com.hyphenate.chatuidemo.ui.SplashActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:62:9-71:20
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:62:9-71:20
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:64:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:64:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:65:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:65:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:63:13-46
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:63:13-46
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:66:13-70:29
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:66:13-70:29
 action#android.intent.action.MAIN
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:67:17-69
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:67:17-69
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:67:25-66
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:67:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:69:17-77
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:69:17-77
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:69:27-74
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:69:27-74
 activity#com.hyphenate.chatuidemo.ui.LoginActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:74:9-78:80
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:74:9-78:80
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:76:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:76:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:78:13-68
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:78:13-68
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:77:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:77:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:75:13-45
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:75:13-45
 activity#com.hyphenate.chatuidemo.ui.RegisterActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:81:9-85:80
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:81:9-85:80
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:83:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:83:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:85:13-68
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:85:13-68
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:84:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:84:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:82:13-48
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:82:13-48
 activity#com.hyphenate.chatuidemo.ui.ChatActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:87:9-92:67
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:87:9-92:67
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:90:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:90:13-49
 	android:launchMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:89:13-44
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:89:13-44
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:92:13-55
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:92:13-55
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:91:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:91:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:88:13-44
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:88:13-44
 activity#com.hyphenate.chatuidemo.ui.AddContactActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:94:9-98:67
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:94:9-98:67
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:96:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:96:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:98:13-55
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:98:13-55
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:97:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:97:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:95:13-50
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:95:13-50
 activity#com.hyphenate.chatuidemo.ui.GroupDetailsActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:100:9-103:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:100:9-103:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:102:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:102:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:103:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:103:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:101:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:101:13-52
 activity#com.hyphenate.chatuidemo.ui.GroupsActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:105:9-109:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:105:9-109:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:107:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:107:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:109:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:109:13-52
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:108:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:108:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:106:13-46
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:106:13-46
 activity#com.hyphenate.chatuidemo.ui.ChatRoomDetailsActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:112:9-115:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:112:9-115:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:114:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:114:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:115:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:115:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:113:13-55
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:113:13-55
 activity#com.hyphenate.chatuidemo.ui.NewGroupActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:118:9-122:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:118:9-122:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:120:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:120:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:122:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:122:13-52
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:121:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:121:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:119:13-48
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:119:13-48
 activity#com.hyphenate.chatuidemo.ui.ExitGroupDialog
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:124:9-127:67
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:124:9-127:67
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:126:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:126:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:127:13-55
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:127:13-55
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:125:13-47
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:125:13-47
 activity#com.hyphenate.chatuidemo.ui.GroupPickContactsActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:129:9-133:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:129:9-133:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:131:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:131:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:133:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:133:13-52
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:132:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:132:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:130:13-57
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:130:13-57
 activity#com.hyphenate.chatuidemo.ui.PickAtUserActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:134:9-137:55
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:134:9-137:55
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:136:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:136:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:137:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:137:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:135:13-50
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:135:13-50
 activity#com.hyphenate.easeui.ui.EaseBaiduMapActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:139:9-142:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:139:9-142:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:141:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:141:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:142:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:142:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:140:13-72
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:140:13-72
 activity#com.hyphenate.chatuidemo.ui.NewFriendsMsgActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:145:9-148:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:145:9-148:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:147:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:147:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:148:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:148:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:146:13-53
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:146:13-53
 activity#com.hyphenate.chatuidemo.ui.ForwardMessageActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:150:9-154:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:150:9-154:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:152:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:152:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:154:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:154:13-52
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:153:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:153:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:151:13-54
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:151:13-54
 activity#com.hyphenate.chatuidemo.ui.ContextMenuActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:156:9-159:61
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:156:9-159:61
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:158:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:158:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:159:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:159:13-49
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:157:13-51
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:157:13-51
 activity#com.hyphenate.easeui.ui.EaseShowBigImageActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:161:9-164:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:161:9-164:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:163:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:163:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:164:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:164:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:162:13-76
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:162:13-76
 activity#com.hyphenate.easeui.ui.EaseShowNormalFileActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:166:9-169:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:166:9-169:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:168:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:168:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:169:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:169:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:167:13-78
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:167:13-78
 activity#com.hyphenate.chatuidemo.ui.BlacklistActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:171:9-174:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:171:9-174:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:173:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:173:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:174:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:174:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:172:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:172:13-49
 activity#com.hyphenate.chatuidemo.ui.PublicGroupsActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:177:9-181:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:177:9-181:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:179:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:179:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:181:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:181:13-52
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:180:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:180:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:178:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:178:13-52
 activity#com.hyphenate.chatuidemo.ui.PublicChatRoomsActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:182:9-186:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:182:9-186:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:184:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:184:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:186:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:186:13-52
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:185:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:185:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:183:13-55
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:183:13-55
 activity#com.hyphenate.chatuidemo.ui.VoiceCallActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:189:9-193:60
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:189:9-193:60
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:192:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:192:13-49
 	android:launchMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:191:13-44
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:191:13-44
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:193:13-48
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:193:13-48
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:190:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:190:13-49
 activity#com.hyphenate.chatuidemo.ui.VideoCallActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:195:9-200:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:195:9-200:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:199:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:199:13-49
 	android:launchMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:198:13-44
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:198:13-44
 	android:configChanges
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:197:13-74
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:197:13-74
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:200:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:200:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:196:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:196:13-49
 activity#com.hyphenate.chatuidemo.ui.GroupSimpleDetailActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:202:9-205:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:202:9-205:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:204:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:204:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:205:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:205:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:203:13-57
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:203:13-57
 activity#com.hyphenate.chatuidemo.ui.GroupBlacklistActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:207:9-210:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:207:9-210:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:209:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:209:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:210:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:210:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:208:13-54
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:208:13-54
 activity#com.hyphenate.chatuidemo.ui.GroupSearchMessageActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:211:9-215:58
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:211:9-215:58
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:213:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:213:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:215:13-55
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:215:13-55
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:214:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:214:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:212:13-58
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:212:13-58
 activity#com.hyphenate.chatuidemo.ui.PublicGroupsSeachActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:216:9-219:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:216:9-219:64
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:218:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:218:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:219:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:219:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:217:13-57
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:217:13-57
 activity#com.hyphenate.chatuidemo.ui.EditActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:220:9-224:67
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:220:9-224:67
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:222:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:222:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:224:13-55
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:224:13-55
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:223:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:223:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:221:13-44
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:221:13-44
 activity#com.hyphenate.easeui.ui.EaseShowVideoActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:225:9-229:72
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:225:9-229:72
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:227:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:227:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:229:13-60
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:229:13-60
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:228:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:228:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:226:13-73
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:226:13-73
 activity#com.hyphenate.chatuidemo.ui.ImageGridActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:231:9-235:72
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:231:9-235:72
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:233:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:233:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:235:13-60
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:235:13-60
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:234:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:234:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:232:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:232:13-49
 activity#com.hyphenate.chatuidemo.ui.RecorderVideoActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:236:9-240:72
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:236:9-240:72
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:238:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:238:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:240:13-60
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:240:13-60
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:239:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:239:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:237:13-53
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:237:13-53
 activity#com.hyphenate.chatuidemo.ui.DiagnoseActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:242:9-246:72
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:242:9-246:72
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:244:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:244:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:246:13-60
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:246:13-60
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:245:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:245:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:243:13-48
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:243:13-48
 activity#com.hyphenate.chatuidemo.ui.OfflinePushNickActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:249:9-253:72
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:249:9-253:72
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:251:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:251:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:253:13-60
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:253:13-60
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:252:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:252:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:250:13-55
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:250:13-55
 activity#com.hyphenate.chatuidemo.ui.RobotsActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:255:9-259:63
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:255:9-259:63
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:257:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:257:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:259:13-60
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:259:13-60
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:258:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:258:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:256:13-46
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:256:13-46
 activity#com.hyphenate.chatuidemo.ui.UserProfileActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:261:9-264:55
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:261:9-264:55
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:263:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:263:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:264:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:264:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:262:13-51
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:262:13-51
 activity#com.hyphenate.chatuidemo.ui.SetServersActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:266:9-269:15
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:266:9-269:15
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:267:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:267:13-49
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:268:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:268:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:266:19-56
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:266:19-56
 activity#com.easemob.redpacketui.ui.activity.RPRedPacketActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:273:9-277:68
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:273:9-277:68
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:275:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:275:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:277:13-65
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:277:13-65
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:276:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:276:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:274:13-83
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:274:13-83
 activity#com.easemob.redpacketui.ui.activity.RPDetailActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:279:9-283:55
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:279:9-283:55
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:281:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:281:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:283:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:283:13-52
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:282:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:282:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:280:13-80
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:280:13-80
 activity#com.easemob.redpacketui.ui.activity.RPRecordActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:285:9-289:55
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:285:9-289:55
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:287:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:287:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:289:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:289:13-52
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:288:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:288:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:286:13-80
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:286:13-80
 activity#com.easemob.redpacketui.ui.activity.RPWebViewActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:291:9-295:70
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:291:9-295:70
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:293:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:293:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:295:13-67
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:295:13-67
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:294:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:294:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:292:13-81
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:292:13-81
 activity#com.easemob.redpacketui.ui.activity.RPChangeActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:297:9-301:70
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:297:9-301:70
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:299:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:299:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:301:13-67
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:301:13-67
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:300:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:300:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:298:13-80
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:298:13-80
 activity#com.easemob.redpacketui.ui.activity.RPBankCardActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:303:9-307:67
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:303:9-307:67
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:305:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:305:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:307:13-64
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:307:13-64
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:306:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:306:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:304:13-82
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:304:13-82
 activity#com.easemob.redpacketui.ui.activity.RPGroupMemberActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:309:9-313:67
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:309:9-313:67
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:311:13-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:311:13-49
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:313:13-64
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:313:13-64
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:312:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:312:13-52
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:310:13-85
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:310:13-85
 activity#com.alipay.sdk.app.H5PayActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:315:9-320:70
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:315:9-320:70
 	android:screenOrientation
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:319:13-47
-	android:exported
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:318:13-37
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:319:13-47
 	android:windowSoftInputMode
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:320:13-67
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:320:13-67
+	android:exported
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:318:13-37
 	android:configChanges
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:317:13-85
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:317:13-85
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:316:13-60
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:316:13-60
 receiver#com.hyphenate.chatuidemo.receiver.StartServiceReceiver
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:325:9-332:20
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:325:9-332:20
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:325:19-64
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:325:19-64
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON+android.intent.category.LAUNCHER
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:326:13-331:29
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:326:13-331:29
 	android:priority
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:326:28-51
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:326:28-51
 action#android.intent.action.BOOT_COMPLETED
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:327:17-79
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:327:17-79
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:327:25-76
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:327:25-76
 action#android.intent.action.QUICKBOOT_POWERON
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:328:17-82
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:328:17-82
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:328:25-79
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:328:25-79
 receiver#com.hyphenate.chat.EMGCMBroadcastReceiver
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:335:9-344:20
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:335:9-344:20
 	android:exported
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:337:13-36
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:337:13-36
 	android:permission
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:338:13-73
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:338:13-73
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:336:13-69
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:336:13-69
 intent-filter#com.google.android.c2dm.intent.RECEIVE+com.hyphenate.chatuidemo
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:339:13-343:29
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:339:13-343:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:340:17-81
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:340:17-81
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:340:25-78
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:340:25-78
 category#com.hyphenate.chatuidemo
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:342:17-69
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:342:17-69
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:342:27-66
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:342:27-66
 service#com.hyphenate.chat.EMGCMListenerService
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:346:9-348:48
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:346:9-348:48
 	android:exported
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:348:13-37
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:348:13-37
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:347:13-67
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:347:13-67
 receiver#com.hyphenate.chatuidemo.receiver.GCMPushBroadCast
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:350:9-358:20
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:350:9-358:20
 	android:exported
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:352:13-37
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:352:13-37
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:351:13-54
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:351:13-54
 intent-filter#com.hyphenate.chatuidemo+com.hyphenate.sdk.push
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:353:13-357:29
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:353:13-357:29
 action#com.hyphenate.sdk.push
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:354:17-65
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:354:17-65
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:354:25-62
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:354:25-62
 receiver#com.hyphenate.chat.EMHuaweiPushReceiver
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:365:9-379:20
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:365:9-379:20
 	android:exported
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:367:13-36
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:367:13-36
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:366:13-67
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:366:13-67
 intent-filter#com.huawei.android.push.intent.RECEIVE+com.huawei.android.push.intent.REGISTRATION
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:368:13-374:29
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:368:13-374:29
 action#com.huawei.android.push.intent.REGISTRATION
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:371:17-86
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:371:17-86
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:371:25-83
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:371:25-83
 action#com.huawei.android.push.intent.RECEIVE
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:373:17-81
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:373:17-81
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:373:25-78
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:373:25-78
 meta-data#CS_cloud_ablitity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:376:13-378:56
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:376:13-378:56
 	android:value
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:378:17-53
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:378:17-53
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:377:17-49
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:377:17-49
 receiver#com.huawei.android.pushagent.PushEventReceiver
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:382:9-392:20
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:382:9-392:20
 	android:process
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:385:13-43
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:385:13-43
 	android:exported
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:384:13-36
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:384:13-36
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:383:13-74
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:383:13-74
 intent-filter#com.huawei.android.push.PLUGIN+com.huawei.android.push.intent.REFRESH_PUSH_CHANNEL+com.huawei.intent.action.PUSH+com.huawei.intent.action.PUSH_ON
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:386:13-391:29
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:386:13-391:29
 action#com.huawei.android.push.intent.REFRESH_PUSH_CHANNEL
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:387:17-94
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:387:17-94
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:387:25-91
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:387:25-91
 action#com.huawei.intent.action.PUSH
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:388:17-72
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:388:17-72
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:388:25-69
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:388:25-69
 action#com.huawei.intent.action.PUSH_ON
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:389:17-75
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:389:17-75
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:389:25-72
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:389:25-72
 action#com.huawei.android.push.PLUGIN
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:390:17-73
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:390:17-73
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:390:25-70
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:390:25-70
 service#com.huawei.android.pushagent.PushService
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:395:9-397:54
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:395:9-397:54
 	android:process
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:397:13-43
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:397:13-43
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:396:13-68
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:396:13-68
 service#com.umeng.update.net.DownloadingService
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:401:9-403:52
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:401:9-403:52
 	android:process
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:403:13-50
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:403:13-50
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:402:13-67
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:402:13-67
 activity#com.umeng.update.UpdateDialogActivity
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:405:9-407:74
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:405:9-407:74
 	android:theme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:407:13-72
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:407:13-72
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:406:13-65
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:406:13-65
 meta-data#EASEMOB_APPKEY
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:410:9-412:57
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:410:9-412:57
 	android:value
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:412:13-54
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:412:13-54
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:411:13-42
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:411:13-42
 receiver#com.hyphenate.chat.EMMonitorReceiver
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:414:9-424:20
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:414:9-424:20
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:414:19-70
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:414:19-70
 intent-filter#android.intent.action.PACKAGE_REMOVED
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:415:13-418:29
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:415:13-418:29
 action#android.intent.action.PACKAGE_REMOVED
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:416:17-80
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:416:17-80
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:416:25-77
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:416:25-77
 data
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:417:17-50
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:417:17-50
 	android:scheme
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:417:23-47
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:417:23-47
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:420:13-423:29
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:420:13-423:29
 action#android.intent.action.USER_PRESENT
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:422:17-77
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:422:17-77
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:422:25-74
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:422:25-74
 service#com.baidu.location.f
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:427:9-430:41
-	android:enabled
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:429:13-35
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:427:9-430:41
 	android:process
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:430:13-38
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:430:13-38
+	android:enabled
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:429:13-35
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:428:13-48
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:428:13-48
 meta-data#UMENG_APPKEY
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:432:9-434:55
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:432:9-434:55
 	android:value
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:434:13-53
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:434:13-53
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:433:13-40
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:433:13-40
 meta-data#UMENG_CHANNEL
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:435:9-437:41
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:435:9-437:41
 	android:value
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:437:13-38
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:437:13-38
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:436:13-41
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:436:13-41
 meta-data#com.baidu.lbsapi.API_KEY
-ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:438:9-440:64
+ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:438:9-440:64
 	android:value
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:440:13-61
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:440:13-61
 	android:name
-		ADDED from D:\AndroidStudioProjects\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:439:13-52
+		ADDED from E:\03_AndroidStudioProject\IM\easeUIDemo_CN\src\main\AndroidManifest.xml:439:13-52
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ec337bbb59d8d86c1200948800f678e9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\005ccbc2a01686468f2d59e09e1b69fe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\005ccbc2a01686468f2d59e09e1b69fe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\567c64535bfffd26f8e8af13fb5b4168\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\567c64535bfffd26f8e8af13fb5b4168\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b744da91ee5789400f0e27507decefd6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\b744da91ee5789400f0e27507decefd6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9d77ca3a2829d57926c2d6b50fa906b8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9d77ca3a2829d57926c2d6b50fa906b8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1f40d1dc8079dd6f8ffc2728ea505e3d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\1f40d1dc8079dd6f8ffc2728ea505e3d\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ec337bbb59d8d86c1200948800f678e9\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ec337bbb59d8d86c1200948800f678e9\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\306e04c988762c5de8e8c0bad3560c17\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\306e04c988762c5de8e8c0bad3560c17\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\xin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\306e04c988762c5de8e8c0bad3560c17\AndroidManifest.xml:26:13-58

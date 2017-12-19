@@ -269,6 +269,7 @@
     <string name="setting">设置</string>
     <string name="setting_nickname">设置昵称</string>
     <string name="shake">震动</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="sure_to_empty_this">确定清空此群的聊天记录吗？</string>
     <string name="temporary_does_not">暂不支持大于10M的视频！</string>
     <string name="text_ack_msg">已读</string>

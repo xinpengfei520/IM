@@ -1,4 +1,4 @@
-package com.atguigu.im.controller.activity;
+package com.xpf.im.controller.activity;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -9,13 +9,13 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.content.LocalBroadcastManager;
 import android.view.View;
 
-import com.atguigu.im.R;
-import com.atguigu.im.utils.Constant;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.easeui.EaseConstant;
 import com.hyphenate.easeui.ui.EaseChatFragment;
 import com.hyphenate.easeui.widget.EaseChatMessageList;
 import com.hyphenate.easeui.widget.chatrow.EaseCustomChatRowProvider;
+import com.xpf.im.R;
+import com.xpf.im.utils.Constant;
 
 /**
  * 会话详情页面

@@ -1,4 +1,4 @@
-package com.atguigu.im.controller.activity;
+package com.xpf.im.controller.activity;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.atguigu.im.R;
+import com.xpf.im.R;
 import com.xys.libzxing.zxing.encoding.EncodingUtils;
 
 import butterknife.BindView;

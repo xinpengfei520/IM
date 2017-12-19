@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+		ADDED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+		ADDED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml
+		INJECTED from E:\03_AndroidStudioProject\IM\easeUI_CN\src\main\AndroidManifest.xml

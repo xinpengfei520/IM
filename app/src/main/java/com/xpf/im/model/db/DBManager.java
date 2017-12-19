@@ -1,9 +1,9 @@
-package com.atguigu.im.model.db;
+package com.xpf.im.model.db;
 
 import android.content.Context;
 
-import com.atguigu.im.model.dao.ContactDao;
-import com.atguigu.im.model.dao.InvitationDao;
+import com.xpf.im.model.dao.ContactDao;
+import com.xpf.im.model.dao.InvitationDao;
 
 /**
  * Created by xpf on 2016/11/2 :)

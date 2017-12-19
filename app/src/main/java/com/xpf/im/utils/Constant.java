@@ -1,4 +1,4 @@
-package com.atguigu.im.utils;
+package com.xpf.im.utils;
 
 /**
  * Created by xpf on 2016/11/4 :)
