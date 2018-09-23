@@ -4,6 +4,6 @@
     android:id="@+id/fl_chat_detail"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.atguigu.im.controller.activity.ChatActivity">
+    tools:context=".controller.activity.ChatActivity">
 
 </FrameLayout>

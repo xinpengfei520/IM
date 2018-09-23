@@ -5,17 +5,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.atguigu.im.controller.activity.LoginActivity">
+    tools:context=".controller.activity.LoginActivity">
 
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="60dp"
         android:background="@android:color/holo_blue_light"
         android:gravity="center"
         android:padding="3dp"
         android:text="登   录"
         android:textColor="@android:color/white"
-        android:textSize="25sp" />
+        android:textSize="20sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -26,51 +26,51 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="硅谷社交"
-            android:textSize="30sp" />
-
+            android:text="X-chat"
+            android:textSize="20sp" />
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="5dp"
+        android:layout_margin="10dp"
         android:orientation="horizontal">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="用户名:"
-            android:textSize="25sp" />
+            android:textSize="18sp" />
 
         <EditText
             android:id="@+id/et_username"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:textSize="25sp" />
+            android:textSize="18sp" />
 
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="5dp"
+        android:layout_margin="10dp"
         android:orientation="horizontal">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="密    码:"
-            android:textSize="25sp" />
+            android:textSize="18sp" />
 
         <EditText
             android:id="@+id/et_pwd"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:textSize="25sp" />
-
+            android:inputType="textPassword"
+            android:singleLine="true"
+            android:textSize="18sp" />
     </LinearLayout>
 
     <LinearLayout
@@ -83,18 +83,26 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:padding="5dp"
+            android:background="@color/colorPrimary"
+            android:padding="6dp"
             android:text="注 册"
-            android:textSize="25sp" />
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <View
+            android:layout_width="10dp"
+            android:layout_height="wrap_content" />
 
         <Button
             android:id="@+id/btn_login"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:padding="5dp"
+            android:background="@color/colorPrimary"
+            android:padding="6dp"
             android:text="登 录"
-            android:textSize="25sp" />
+            android:textColor="@color/white"
+            android:textSize="18sp" />
     </LinearLayout>
 
 </LinearLayout>

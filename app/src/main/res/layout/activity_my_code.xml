@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/darker_gray"
-    tools:context="com.atguigu.im.controller.activity.MyCodeActivity">
+    tools:context=".controller.activity.MyCodeActivity">
 
     <TextView
         android:layout_width="match_parent"
